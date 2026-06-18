@@ -1,3 +1,4 @@
+
+
 O projeto foi criando a partir da ideia do jogo Pong e  baseando-se no primeiro console de video game caseiro ODYSSEY,  foi desenvolvido um simulador de
-hoquei no gelo para dois jogadores,utilizando a Plataforma Unity. Como dito por dois genios Não há sentido em ser crescido se você não pode ser infantil às vezes."
-"A tecnologia avança o suficiente para que possamos finalmente criar nossas fantasias, mas a imaginação é o que nos guia."
+hoquei no gelo para dois jogadores,utilizando a Plataforma Unity.
